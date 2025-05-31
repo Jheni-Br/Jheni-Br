@@ -1,8 +1,8 @@
 ## BEM VINDOS 👋
 
-### Olá, me chamo Jhenifer
-### Estou cursando Tecnologia em Ciência de Dados!!
-### [meu Linkedin](https://www.linkedin.com/in/jhenifer-brito/)
+### 👓 Olá, me chamo Jhenifer!!
+### 🎲 Estou cursando Tecnologia em Ciência de Dados!!
+### 💼 [meu Linkedin](https://www.linkedin.com/in/jhenifer-brito/)
 
 <!--
 **Jheni-Br/Jheni-Br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
