@@ -1,6 +1,6 @@
 ## BEM VINDOS 👋
 
-### 👓 Olá, me chamo Jhenifer!!
+### 👓 Olá, me chamo Jhenifer Brito!!
 ### 🎲 Estou cursando Tecnologia em Ciência de Dados!!
 ### 💼 [meu Linkedin](https://www.linkedin.com/in/jhenifer-brito/)
 
